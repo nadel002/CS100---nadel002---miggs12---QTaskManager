@@ -1,4 +1,4 @@
-# CS100---nadel002---miggs12---QTaskManager
+# CS100---nadel002---miggs12---madhi002---dliu117---QTaskManager
 https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-openprocess
 This is a modern looking task manager using QT and the WinApi in C++
 Title of Project -  QTaskManager
