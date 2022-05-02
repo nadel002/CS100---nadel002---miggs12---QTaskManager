@@ -14,5 +14,6 @@ Project Description - A Modern Looking Task Manager
   - Input / Output - Basic GUI that takes user input and produces output in the form of data about the usage of processes on a Windows system (CPU usage, RAM usage, DISK   usage, NETWORK usage). Input functionalities will be restricted to ending the process via a right-click operation that produces a context menu with an end-process       function. If time permits, possibly add a details button to the context menu to see the path to the file that is running, its executable name, etc.
 
 
+![Screenshot](uml.drawio.png)
 
 
